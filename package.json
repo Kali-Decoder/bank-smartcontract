@@ -1,0 +1,20 @@
+{
+  "name": "bank-smartcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "dotenv": "^14.3.2",
+    "error-ex": "github:Qix-/node-error-ex"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  }
+}
